@@ -1,17 +1,15 @@
-Normalize
-=========
+# Normalize
 
-Simple and powerful CSS file that corrects bugs and makes browsers render all HTML elements consistently.
+CSS file that makes browsers render all HTML elements consistently.
 
 1. Download from the [project page](http://maquinarus.github.io/normalize/).
-2. Include normalize.css file into your project.
+2. Link normalize.min.css file into your project before any other styles.
 3. Link it before any other styles.
 
-Browser Support
-=========
+### Browser Support
 
-* Google Chrome
-* Mozilla Firefox 4+
-* Apple Safari 5+
-* Opera 12+
-* Internet Explorer 8+
+- Google Chrome
+- Mozilla Firefox 4+
+- Apple Safari 5+
+- Opera 12+
+- Internet Explorer 8+
