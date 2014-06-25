@@ -2,8 +2,19 @@
 
 CSS file that makes browsers render all HTML elements consistently.
 
-1. Download from the [project page](http://maquinarus.github.io/normalize/);
-2. Link normalize.min.css file into your project before any other styles.
+### Setup
+
+#### CSS
+
+Link normalize.min.css before any other styles in your project:
+
+	<link rel="stylesheet" href="normalize.min.css">
+
+#### Sass
+
+Copy normalize.scss to the same folder as the main style of your project and import it:
+
+	@import 'normalize';
 
 ### Browser Support
 
